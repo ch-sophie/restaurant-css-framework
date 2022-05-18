@@ -5,20 +5,20 @@
 [![Cookies basket](mae-mu.jpg "Cookies photo by Mae-Mu on Unsplash")](mae.mu.jpg) 
 #### Photo by Mae Mu on Unsplash
 
-### Link to home page: 
+### Link to home page: https://ch-sophie.github.io/restaurant-css-framework/Welcome 
 
 
 #### Images credit:
 
-#### Photo by Julissa Capdevilla on Unsplash 
-#### Photo by Christina Branco on Unsplash
-#### Photo by Mae Mu on Unsplash
+##### - Photo by Julissa Capdevilla on Unsplash 
+##### - Photo by Christina Branco on Unsplash
+##### - Photo by Mae Mu on Unsplash
 
-#### Photo by Rai Vidanes on Unsplash 
-#### Photo by Nafinia Putra on Unsplash
+##### - Photo by Rai Vidanes on Unsplash 
+##### - Photo by Nafinia Putra on Unsplash
 
-The website is responsive, for small and medium screens.    
-It has five accessible pages: welcome, menu, gallery, restaurants and contact.   
+#### The website is responsive, for small and medium screens.    
+#### It has five accessible pages: welcome, menu, gallery, restaurants and contact.   
 
 _Welcome_    
 A page with one Jumbotron and two panels (our story and news).   
