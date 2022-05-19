@@ -31,22 +31,26 @@ A page with a contact form containing the firstname, lastname, email, subject of
 ##### - Photo by Julissa Capdevilla on Unsplash 
 ##### - Photo by Christina Branco on Unsplash
 ##### - Photo by Mae Mu on Unsplash
-
 ##### - Photo by Rai Vidanes on Unsplash 
 ##### - Photo by Nafinia Putra on Unsplash
+##### - Photo by Ruben Ramirez on Unsplash
+##### - Photo by Toa Heftiba on Unsplash
+##### - Photo by Roman Bozhko on Unsplash
+##### - Photo by Chaman Raj on Unsplash
+##### - Photo by Matcha & Co on Unsplash
+##### - Photo by Ella Olsson on Unsplash
+##### - Photo by Chaman Raj on Unsplash
+##### - Photo by Mariuush on Unsplash
+##### - Photo by Jason Leung on Unsplash
+##### - Photo by Nick Fewings on Unsplash
+##### - Photo by Kaizen Nguyen on Unsplash
+##### - Photo by Jennifer Pallian on Unsplash
+##### - Photo by American Heritage on Unsplash
+##### - Photo by Nathan Dumlao on Unsplash
+##### - Photo by Tatiana Rodriguez on Unsplash
+##### - Photo by Nathalie Jaramillo on Unsplash
+##### - Photo by Pariwat pannium on Unsplash
+##### - Photo by Tyler Nix on Unsplash
 
-##### - Photo by Ruben Ramirez
-##### - Photo by Toa Heftiba 
-##### - Photo by Roman Bozhko
-##### - Photo by Chaman Raj
-##### - Photo by Matcha & Co
-
-##### - Photo by Ella Olsson
-##### - Photo by Chaman Raj
-##### - Photo by Mariuush 
-
-##### - Photo by Jason Leung
-##### - Photo by Nick Fewings
-##### - Photo by Kaizen Nguyen
 
 #### Thank you for reading.
