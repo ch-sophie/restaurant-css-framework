@@ -28,10 +28,9 @@ A page with a contact form containing the firstname, lastname, email, subject of
 
 #### Images credit:
 
-##### - Photo by Julissa Capdevilla on Unsplash 
+##### - Photo by Rene Porter on Unsplash 
 ##### - Photo by Christina Branco on Unsplash
-##### - Photo by Mae Mu on Unsplash
-##### - Photo by Rai Vidanes on Unsplash 
+##### - Photo by Jade Wulfraat on Unsplash
 ##### - Photo by Nafinia Putra on Unsplash
 ##### - Photo by Ruben Ramirez on Unsplash
 ##### - Photo by Toa Heftiba on Unsplash
@@ -51,6 +50,5 @@ A page with a contact form containing the firstname, lastname, email, subject of
 ##### - Photo by Nathalie Jaramillo on Unsplash
 ##### - Photo by Pariwat pannium on Unsplash
 ##### - Photo by Tyler Nix on Unsplash
-
 
 #### Thank you for reading.
