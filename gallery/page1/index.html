@@ -8,33 +8,40 @@
     <!-- link bootstrap -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <!-- link bootstrap js -->
-    <link rel="stylesheet" type="text/css" href="./style.css">
-    <!-- link rel="stylesheet" type="text/css" href="./style.css" -->
+    <script src="https://kit.fontawesome.com/b0a60d99d5.js" crossorigin="anonymous"></script>
+    <!-- font awesome icons -->
     <title>Photos</title>
 </head>
 <body>
-    <div class="container m-5 mx-auto">
+    <div class="container my-3 mx-auto">
+      <nav class="navbar navbar-expand-lg bg-warning">
+        <div class="container-fluid">
+          <a class="navbar-brand fw-semibold text-white" href="https://ch-sophie.github.io/restaurant-css-framework/Welcome"><i class="fa-solid fa-dice"></i> Soookies</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link text-white" href="https://ch-sophie.github.io/restaurant-css-framework/Menu">Menu</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-white" href="https://ch-sophie.github.io/restaurant-css-framework/restaurant">Locations</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-white" href="https://ch-sophie.github.io/restaurant-css-framework/gallery">Gallery</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-white" href="https://ch-sophie.github.io/restaurant-css-framework/contact" >Contact</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
         <div class="row">
             <div class="col mx-auto col-sm-8 col-md-8">
-
-            <div class="jumbotron bg-light text-center g-20 m-3">
-                <nav class="navbar navbar-expand-sm navbar-expand-md navbar-light bg-light">
-                    <div class="container-fluid flex-sm-column flex-md-column">
-                      <a class="navbar-brand text-warning fw-bold">Soookies</a>
-                      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                      </button>
-                      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                        <div class="navbar-nav">
-                          <a class="nav-link" aria-current="page" href="https://ch-sophie.github.io/restaurant-css-framework/Welcome">Home</a>
-                          <a class="nav-link" href="https://ch-sophie.github.io/restaurant-css-framework/Menu">Menu</a>
-                          <a class="nav-link" href="https://ch-sophie.github.io/restaurant-css-framework/restaurant">Stores</a>
-                          <a class="nav-link" href="https://ch-sophie.github.io/restaurant-css-framework/contact">Contact</a>
-                        </div>
-                      </div>
-                    </div>
-                  </nav>
-
+            <div class="jumbotron bg-light text-center m-3">
+              <h4 class="text-center mt-4">Photos</h4>
                 <nav aria-label="Page navigation example">
                     <ul class="pagination justify-content-center m-3">
                       <li class="page-item">
@@ -61,13 +68,13 @@
         </div>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="cookies1.jpg" class="d-block w-100" alt="Fresh Cookies">
+            <img src="newcookie1.jpg" class="d-block w-100" alt="Fresh Cookies">
           </div>
           <div class="carousel-item">
-            <img src="cookies4.jpg" class="d-block w-100" alt="Chocolate Cookies">
+            <img src="newcookie2.jpg" class="d-block w-100" alt="Chocolate Cookies">
           </div>
           <div class="carousel-item">
-            <img src="cookies5.jpg" class="d-block w-100" alt="Cookies basket">
+            <img src="newcookie3.jpg" class="d-block w-100" alt="Cookies">
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -82,6 +89,26 @@
       </div>
     </div>
     </div>
+    <hr>
+    <footer class="my-3">
+      <nav class="navbar-expand navbar-expand-lg bg-light">
+        <div class="container-fluid">
+          <!-- <a class="navbar-brand"><i class="fa-solid fa-copyright fa-2xs"></i>  Soookies</span></a> -->
+          <!-- <button class="navbar-toggler d-inline-flex" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button> -->
+          <div class="collapse navbar-collapse justify-content-center" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+              <a class="nav-link mx-4" href="#"><i class="fa-brands fa-facebook fa-fade"></i></a>
+              <a class="nav-link mx-4" href="#"><i class="fa-brands fa-instagram"></i></a>
+              <a class="nav-link mx-4" href="#"><i class="fa-brands fa-twitter"></i></a>
+              <a class="nav-link mx-4" href="#"><i class="fa-brands fa-cc-apple-pay fa-flip"></i></a>
+            </div>
+          </div>
+          <a class="navbar-brand"><i class="fa-solid fa-copyright fa-2xs"></i>  Soookies</span></a>
+        </div>
+      </nav>
+    </footer>
     </div>
 
 </body>
