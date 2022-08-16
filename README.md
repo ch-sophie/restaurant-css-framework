@@ -1,4 +1,4 @@
-# restaurant-css-framework
+# Restaurant CSS framework
 
 ## Welcome to my Cookies page
 
@@ -28,6 +28,6 @@ A page with a contact form containing the firstname, lastname, email, subject of
 
 #### Images credit: Unsplash
 
-#### Thank you for reading.
+#### Thank you for reading. :cookie:
 
 ![Eat cookies!](giphy.webp)
